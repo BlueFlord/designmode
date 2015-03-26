@@ -1,4 +1,4 @@
-package mode.bridgepattern;
+package bridgepattern;
 
 //抽象公司
 abstract class Corp {

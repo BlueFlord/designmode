@@ -25,3 +25,6 @@
  ![](./src/main/resources/improvePic.png)
 * 角色 具有的角色:抽象化角色->Abstraction	具体抽象化角色->RedefineAbstraction  
 实现化角色->Implementor  具体实现化角色->ConcreteImplementor
+
+2、享元模式
+--------------------
